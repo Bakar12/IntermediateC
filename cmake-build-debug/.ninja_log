@@ -1,0 +1,8 @@
+# ninja log v6
+19	1505	7397152680938346	build.ninja	1cd8e354832a216c
+179	3616	7397152132607589	CMakeFiles/untitled1.dir/ArrayOperation/ArrayOperation.c.obj	4cf9440dd77ff251
+154	3865	7397152132359919	CMakeFiles/untitled1.dir/main.c.obj	4a3b649aa0323fcb
+38	563	7397152680938346	build.ninja	1cd8e354832a216c
+67	321	7397152682668130	untitled1.exe	4b2e53e6448e03da
+30	348	7397154910576060	CMakeFiles/untitled1.dir/ArrayOperation/ArrayOperation.c.obj	4cf9440dd77ff251
+349	571	7397154913758360	untitled1.exe	4b2e53e6448e03da
